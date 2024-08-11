@@ -57,11 +57,3 @@ saucedemo-automation/
 ├── pom.xml
 └── README.md
 
-### Key Sections Explained:
-- **Installation**: Provides steps to set up the project locally.
-- **Usage**: Explains prerequisites and basic commands to run the tests.
-- **Project Structure**: Offers an overview of the file structure and where key components are located.
-- **Contributing**: Instructions for contributing to the project, helpful for open-source projects.
-- **License**: Indicates the licensing of the project.
-
-This template is customizable according to your project specifics and needs.
